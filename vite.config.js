@@ -9,4 +9,5 @@ export default defineConfig({
       usePolling: true,
     },
   },
+  base: "/block26_contact_list/",
 });
